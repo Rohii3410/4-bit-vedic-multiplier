@@ -29,11 +29,11 @@ This project implements a **4-bit Vedic multiplier** using hierarchical design a
 
 ## 📊 Performance
 
-| Metric | Value        |
-|--------|--------------|
-| Area   | XX µm²       |
-| Delay  | YY ns        |
-| Power  | ZZ µW        |
+| Metric |   Value         |
+|--------|-----------------|
+| Area   | 918.086  µm²    |
+| Gates  | 30              |
+| Power  | 2.79784e-04 W   |
 
 ## 🧪 Testbench Example
 

@@ -15,7 +15,7 @@ This project implements a **4-bit Vedic multiplier** using hierarchical design a
 - `docs/`: Diagrams and explanation
 - `simulation/`: Waveform results
 - `results/`: Area, power, delay reports
-- `schematic/`: Layout or schematic screenshots
+- `schematic/`: Layout or schematic screenshots , VIDEO-Clip
 
 ## ✅ Simulation Result
 

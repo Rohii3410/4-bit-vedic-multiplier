@@ -19,7 +19,7 @@ This project implements a **4-bit Vedic multiplier** using hierarchical design a
 
 ## ✅ Simulation Result
 
-![Waveform](simulation/waveform.png)
+![Waveform](Simulation/vedic4bitmul_1.png)
 
 ## 🛠 Tools Used
 
